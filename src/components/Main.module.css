@@ -1,0 +1,53 @@
+.main {
+  width: 100%;
+  height: 100%;
+  padding: 25px;
+}
+
+img {
+  /* max-width: 30%; */
+  margin: 2rem;
+  border-radius: 8px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.imgOne {
+  height: 370px;
+}
+
+.imgTwo {
+  height: 370px;
+}
+
+.imgThree {
+  height: 370px;
+}
+
+.content {
+  width: 100%;
+  height: 30vh;
+  padding: 15px;
+  border-radius: 8px;
+  background: rgb(226, 223, 223);
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px,
+    rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+
+.content h3 {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 2rem;
+}
+.content p {
+  margin: 0 auto;
+  width: 90%;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.8rem;
+  text-align: center;
+}
+
+.content a {
+  color: #0942ab;
+  font-size: 15px;
+}
